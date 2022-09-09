@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: g4-platform-nodejs-template
+  title: G4 Platform Node.js Template
+  description: An example template for the scaffolder that creates a simple Node.js service
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
