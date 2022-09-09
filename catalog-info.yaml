@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: g4-platform-backstage-validation
+  annotations:
+    github.com/project-slug: G4-Platform/g4-platform-backstage-validation
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
